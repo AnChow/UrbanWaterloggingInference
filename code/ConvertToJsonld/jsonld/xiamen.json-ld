@@ -1,0 +1,115 @@
+{
+  "@graph" : [ {
+"@id" : "http://openkg.cn/schema/waterlogging#中国福建省厦门市湖里区建材ＭＡＬＬ商圈仙岳路1769号-05-15-2013T轻微Z",
+"hasPercipitation" : "大雨",
+"hasSeverity" : "轻微",
+"hasWaterloggingTime" : "05-15-2013 18:09:00",
+"hasWeiboText" : " 厦门仙岳路高架岳阳小区南半幅和西浦路", 
+"hasCity" : "厦门", 
+"hasTerrain" : "平地", 
+"hasPictureUrl" : "http://112.124.0.230:8000/web/39bc90f7464ede4595001532e3e1ec48.jpg", 
+"hasLatValue" : "24.50487434", 
+"hasLonValue" : "118.1456526", 
+},
+{
+"@id" : "http://openkg.cn/schema/waterlogging#中国福建省厦门市湖里区建材ＭＡＬＬ商圈仙岳路1769号-05-15-2013T轻微Z",
+"hasPercipitation" : "大雨",
+"hasSeverity" : "轻微",
+"hasWaterloggingTime" : "05-15-2013 18:09:00",
+"hasWeiboText" : " 厦门仙岳路湖边水库段", 
+"hasCity" : "厦门", 
+"hasTerrain" : "平地", 
+"hasPictureUrl" : "http://112.124.0.230:8000/web/e396b79e70e8e19a1ed4aba1edd8e201.jpg", 
+"hasLatValue" : "24.50487434", 
+"hasLonValue" : "118.1456526", 
+},
+{
+"@id" : "http://openkg.cn/schema/waterlogging#中国福建省厦门市思明区湖滨中路272号-05-15-2013T轻微Z",
+"hasPercipitation" : "大雨",
+"hasSeverity" : "轻微",
+"hasWaterloggingTime" : "05-15-2013 18:09:00",
+"hasWeiboText" : " 厦门湖滨中路茶厂段", 
+"hasCity" : "厦门", 
+"hasTerrain" : "平地", 
+"hasPictureUrl" : "http://112.124.0.230:8000/web/3cc188ef8b1b41ff0aca1152e9d7f756.jpg", 
+"hasLatValue" : "24.4835349", 
+"hasLonValue" : "118.1035444", 
+},
+{
+"@id" : "http://openkg.cn/schema/waterlogging#中国福建省厦门市思明区云顶中路532号-05-15-2013T轻微Z",
+"hasPercipitation" : "大雨",
+"hasSeverity" : "轻微",
+"hasWaterloggingTime" : "05-15-2013 18:09:00",
+"hasWeiboText" : " 厦门云顶中路市政大厦门口", 
+"hasCity" : "厦门", 
+"hasTerrain" : "平地", 
+"hasPictureUrl" : "http://112.124.0.230:8000/web/7ab0409b721d0b696854f5fbed7efebf.jpg", 
+"hasLatValue" : "24.48376771", 
+"hasLonValue" : "118.1587969", 
+},
+{
+"@id" : "http://openkg.cn/schema/waterlogging#中国福建省厦门市湖里区吕岭路842号-960号-05-15-2013T轻微Z",
+"hasPercipitation" : "大雨",
+"hasSeverity" : "轻微",
+"hasWaterloggingTime" : "05-15-2013 18:09:00",
+"hasWeiboText" : " 厦门吕岭路金域蓝湾", 
+"hasCity" : "厦门", 
+"hasTerrain" : "平地", 
+"hasPictureUrl" : "http://112.124.0.230:8000/web/7ec586e9503ee1e1766db30239a7c3f7.jpg", 
+"hasLatValue" : "24.49181215", 
+"hasLonValue" : "118.1677143", 
+},
+{
+"@id" : "http://openkg.cn/schema/waterlogging#中国福建省厦门市同安区集和路166号-05-15-2013T轻微Z",
+"hasPercipitation" : "大雨",
+"hasSeverity" : "轻微",
+"hasWaterloggingTime" : "05-15-2013 18:09:00",
+"hasWeiboText" : " 厦门前埔", 
+"hasCity" : "厦门", 
+"hasTerrain" : "平地", 
+"hasPictureUrl" : "http://112.124.0.230:8000/web/3c3f7537022f1f33510395144366f25e.jpg", 
+"hasLatValue" : "24.6864226", 
+"hasLonValue" : "118.1219893", 
+},
+
+  
+],
+  "@context" : {
+    "hasPercipitation" : {
+      "@id" : "http://openkg.cn/schema/waterlogging#hasPercipitation",
+      "@type" : "http://www.w3.org/2001/XMLSchema#String"
+    },
+    "hasSeverity" : {
+      "@id" : "http://openkg.cn/schema/waterlogging#hasSeverity",
+      "@type" : "http://www.w3.org/2001/XMLSchema#String"
+    },
+    "hasWaterloggingTime" : {
+      "@id" : "http://openkg.cn/schema/waterlogging#hasWaterloggingTime",
+      "@type" : "http://www.w3.org/2001/XMLSchema#Strung"
+    },
+    "hasWeiboText" : {
+      "@id" : "http://openkg.cn/schema/waterlogging#hasWeiboText",
+      "@type" : "http://www.w3.org/2001/XMLSchema#String"
+    },
+    "hasCity" : {
+      "@id" : "http://openkg.cn/schema/waterlogging#hasCity",
+      "@type" : "http://www.w3.org/2001/XMLSchema#String"
+    },
+    "hasTerrain" : {
+      "@id" : "http://openkg.cn/schema/waterlogging#hasTerrain",
+      "@type" : "http://www.w3.org/2001/XMLSchema#String"
+    },
+    "hasPictureUrl" : {
+      "@id" : "http://openkg.cn/schema/waterlogging#hasPictureUrl",
+      "@type" : "http://www.w3.org/2001/XMLSchema#String"
+    },
+	 "hasLatValue" : {
+      "@id" : "http://openkg.cn/schema/waterlogging#hasLatValue",
+      "@type" : "http://www.w3.org/2001/XMLSchema#double"
+    },
+	 "hasLonValue" : {
+      "@id" : "http://openkg.cn/schema/waterlogging#hasLonValue",
+      "@type" : "http://www.w3.org/2001/XMLSchema#double"
+    },
+  }
+}

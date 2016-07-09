@@ -1,0 +1,163 @@
+{
+  "@graph" : [ {
+"@id" : "http://openkg.cn/schema/waterlogging#中国四川省成都市青羊区人民公园少城路27号-08-30-2013T轻微Z",
+"hasPercipitation" : "大雨",
+"hasSeverity" : "轻微",
+"hasWaterloggingTime" : "08-30-2013 18:09:00",
+"hasWeiboText" : " 成都少城路", 
+"hasCity" : "成都", 
+"hasTerrain" : "平地", 
+"hasPictureUrl" : "http://112.124.0.230:8000/web/602b88a170ad1d7c8f7758894537fbbe.jpg", 
+"hasLatValue" : "30.66501266", 
+"hasLonValue" : "104.0643101", 
+},
+{
+"@id" : "http://openkg.cn/schema/waterlogging#中国四川省成都市武侯区小天竺人民南路三段1号-08-30-2013T轻微Z",
+"hasPercipitation" : "大雨",
+"hasSeverity" : "轻微",
+"hasWaterloggingTime" : "08-30-2013 18:09:00",
+"hasWeiboText" : " 成都人民南路", 
+"hasCity" : "成都", 
+"hasTerrain" : "平地", 
+"hasPictureUrl" : "http://112.124.0.230:8000/web/823c2fe3493368ffa60feb25c85fb98a (1).jpg", 
+"hasLatValue" : "30.64648055", 
+"hasLonValue" : "104.0729164", 
+},
+{
+"@id" : "http://openkg.cn/schema/waterlogging#中国四川省成都市青羊区人民公园君平街88号-08-30-2013T轻微Z",
+"hasPercipitation" : "大雨",
+"hasSeverity" : "轻微",
+"hasWaterloggingTime" : "08-30-2013 18:09:00",
+"hasWeiboText" : " 成都人民公园那里", 
+"hasCity" : "成都", 
+"hasTerrain" : "平地", 
+"hasPictureUrl" : "http://112.124.0.230:8000/web/3e6b59052ffb10cb43c5d8d1e4ee5b92.jpg", 
+"hasLatValue" : "30.66326386", 
+"hasLonValue" : "104.0637289", 
+},
+{
+"@id" : "http://openkg.cn/schema/waterlogging#中国四川省成都市青羊区骡马市羊市街24号-08-30-2013T轻微Z",
+"hasPercipitation" : "大雨",
+"hasSeverity" : "轻微",
+"hasWaterloggingTime" : "08-30-2013 18:09:00",
+"hasWeiboText" : " 成都羊市街下穿被淹漫水", 
+"hasCity" : "成都", 
+"hasTerrain" : "平地", 
+"hasPictureUrl" : "http://112.124.0.230:8000/web/645a2607fe5fb0377f493f0f1a16a5dc.jpg", 
+"hasLatValue" : "30.67306753", 
+"hasLonValue" : "104.0689969", 
+},
+{
+"@id" : "http://openkg.cn/schema/waterlogging#中国成都市青羊区骡马市天府广场站-08-30-2013T轻微Z",
+"hasPercipitation" : "大雨",
+"hasSeverity" : "轻微",
+"hasWaterloggingTime" : "08-30-2013 18:09:00",
+"hasWeiboText" : " 成都地铁1号线天府广场站厅部分地面积水", 
+"hasCity" : "成都", 
+"hasTerrain" : "平地", 
+"hasPictureUrl" : "http://112.124.0.230:8000/web/eac67513c01e3edb0767d57b1fa0acc8.jpg", 
+"hasLatValue" : "30.66376333", 
+"hasLonValue" : "104.0740277", 
+},
+{
+"@id" : "http://openkg.cn/schema/waterlogging#中国四川省成都市武侯区锦悦西路2号-08-30-2013T轻微Z",
+"hasPercipitation" : "大雨",
+"hasSeverity" : "轻微",
+"hasWaterloggingTime" : "08-30-2013 18:09:00",
+"hasWeiboText" : " 成都锦里路段", 
+"hasCity" : "成都", 
+"hasTerrain" : "平地", 
+"hasPictureUrl" : "http://112.124.0.230:8000/web/a338b2c69d0d991928f8cedc222de0ce.jpg", 
+"hasLatValue" : "30.57822166", 
+"hasLonValue" : "104.0730395", 
+},
+{
+"@id" : "http://openkg.cn/schema/waterlogging#中国四川省成都市锦江区岳府街40号-08-30-2013T轻微Z",
+"hasPercipitation" : "大雨",
+"hasSeverity" : "轻微",
+"hasWaterloggingTime" : "08-30-2013 18:09:00",
+"hasWeiboText" : " 成都岳府街", 
+"hasCity" : "成都", 
+"hasTerrain" : "平地", 
+"hasPictureUrl" : "http://112.124.0.230:8000/web/a2116ce4df5d93fb7657154de1bea3f5.jpg", 
+"hasLatValue" : "30.66813631", 
+"hasLonValue" : "104.0872001", 
+},
+{
+"@id" : "http://openkg.cn/schema/waterlogging#中国四川省成都市都江堰市红星路-08-30-2013T轻微Z",
+"hasPercipitation" : "大雨",
+"hasSeverity" : "轻微",
+"hasWaterloggingTime" : "08-30-2013 18:09:00",
+"hasWeiboText" : " 成都红星路", 
+"hasCity" : "成都", 
+"hasTerrain" : "平地", 
+"hasPictureUrl" : "http://112.124.0.230:8000/web/6e01ba7c1d3381187626f7726ceee360.jpg", 
+"hasLatValue" : "30.88288202", 
+"hasLonValue" : "103.5971405", 
+},
+{
+"@id" : "http://openkg.cn/schema/waterlogging#中国四川省成都市武侯区锦悦西路2号-08-30-2013T严重Z",
+"hasPercipitation" : "暴雨",
+"hasSeverity" : "严重",
+"hasWaterloggingTime" : "08-30-2013 18:09:00",
+"hasWeiboText" : " 成都衣冠庙立交桥", 
+"hasCity" : "成都", 
+"hasTerrain" : "洼地", 
+"hasPictureUrl" : "http://112.124.0.230:8000/web/27467fd335f770588be31d67871ba90d.jpg", 
+"hasLatValue" : "30.57822166", 
+"hasLonValue" : "104.0730395", 
+},
+{
+"@id" : "http://openkg.cn/schema/waterlogging#中国四川省成都市武侯区锦悦西路2号-08-30-2013T轻微Z",
+"hasPercipitation" : "大雨",
+"hasSeverity" : "轻微",
+"hasWaterloggingTime" : "08-30-2013 18:09:00",
+"hasWeiboText" : " 成都城北加油站", 
+"hasCity" : "成都", 
+"hasTerrain" : "平地", 
+"hasPictureUrl" : "http://112.124.0.230:8000/web/39555f382f99728fdae9be9eafccfff1.jpg", 
+"hasLatValue" : "30.57822166", 
+"hasLonValue" : "104.0730395", 
+},
+
+  
+],
+  "@context" : {
+    "hasPercipitation" : {
+      "@id" : "http://openkg.cn/schema/waterlogging#hasPercipitation",
+      "@type" : "http://www.w3.org/2001/XMLSchema#String"
+    },
+    "hasSeverity" : {
+      "@id" : "http://openkg.cn/schema/waterlogging#hasSeverity",
+      "@type" : "http://www.w3.org/2001/XMLSchema#String"
+    },
+    "hasWaterloggingTime" : {
+      "@id" : "http://openkg.cn/schema/waterlogging#hasWaterloggingTime",
+      "@type" : "http://www.w3.org/2001/XMLSchema#Strung"
+    },
+    "hasWeiboText" : {
+      "@id" : "http://openkg.cn/schema/waterlogging#hasWeiboText",
+      "@type" : "http://www.w3.org/2001/XMLSchema#String"
+    },
+    "hasCity" : {
+      "@id" : "http://openkg.cn/schema/waterlogging#hasCity",
+      "@type" : "http://www.w3.org/2001/XMLSchema#String"
+    },
+    "hasTerrain" : {
+      "@id" : "http://openkg.cn/schema/waterlogging#hasTerrain",
+      "@type" : "http://www.w3.org/2001/XMLSchema#String"
+    },
+    "hasPictureUrl" : {
+      "@id" : "http://openkg.cn/schema/waterlogging#hasPictureUrl",
+      "@type" : "http://www.w3.org/2001/XMLSchema#String"
+    },
+	 "hasLatValue" : {
+      "@id" : "http://openkg.cn/schema/waterlogging#hasLatValue",
+      "@type" : "http://www.w3.org/2001/XMLSchema#double"
+    },
+	 "hasLonValue" : {
+      "@id" : "http://openkg.cn/schema/waterlogging#hasLonValue",
+      "@type" : "http://www.w3.org/2001/XMLSchema#double"
+    },
+  }
+}
